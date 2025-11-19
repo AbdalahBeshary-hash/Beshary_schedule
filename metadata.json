@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Studio - Teaching Schedule",
+  "description": "A comprehensive university scheduling application for lecturers and teaching assistants, featuring automated timetable generation, conflict detection, and AI-powered workload analysis.",
+  "requestFramePermissions": []
+}
